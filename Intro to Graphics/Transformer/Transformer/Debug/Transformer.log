@@ -1,0 +1,25 @@
+﻿Build started 12/27/2013 2:48:18 PM.
+     1>Project "C:\Users\Joey\Dropbox\School\CS1566\Transformer\Transformer\Transformer.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt glmain.cpp
+         glmain.cpp
+     1>c:\users\joey\dropbox\school\cs1566\transformer\transformer\glmain.cpp(197): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\joey\dropbox\school\cs1566\transformer\transformer\glmain.cpp(199): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\joey\dropbox\school\cs1566\transformer\transformer\glmain.cpp(227): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\joey\dropbox\school\cs1566\transformer\transformer\glmain.cpp(229): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\joey\dropbox\school\cs1566\transformer\transformer\glmain.cpp(275): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\joey\dropbox\school\cs1566\transformer\transformer\glmain.cpp(277): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\joey\dropbox\school\cs1566\transformer\transformer\glmain.cpp(436): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\joey\dropbox\school\cs1566\transformer\transformer\glmain.cpp(438): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Joey\Dropbox\School\CS1566\Transformer\Debug\Transformer.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Joey\Dropbox\School\CS1566\Transformer\Debug\Transformer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Joey\Dropbox\School\CS1566\Transformer\Debug\Transformer.lib" /MACHINE:X86 Debug\Face.obj
+         Debug\glmain.obj
+         Debug\MatrixMultiplyer.obj
+         Debug\Point.obj
+         Debug\Shape.obj
+         Transformer.vcxproj -> C:\Users\Joey\Dropbox\School\CS1566\Transformer\Debug\Transformer.exe
+     1>Done Building Project "C:\Users\Joey\Dropbox\School\CS1566\Transformer\Transformer\Transformer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.79

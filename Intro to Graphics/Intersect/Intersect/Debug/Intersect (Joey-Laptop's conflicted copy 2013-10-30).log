@@ -1,0 +1,43 @@
+﻿Build started 10/30/2013 2:40:42 PM.
+     1>Project "C:\Users\Joey\Dropbox\School\CS1566\Intersect\Intersect\Intersect.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Shape.cpp
+         Shape.cpp
+     1>c:\users\joey\dropbox\school\cs1566\intersect\intersect\shape.cpp(87): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\joey\dropbox\school\cs1566\intersect\intersect\shape.cpp(89): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\joey\dropbox\school\cs1566\intersect\intersect\shape.cpp(98): warning C4258: 'c' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\joey\dropbox\school\cs1566\intersect\intersect\shape.cpp(89) : definition of 'c' ignored
+                 c:\users\joey\dropbox\school\cs1566\intersect\intersect\shape.cpp(83) : definition of 'c' used
+     1>c:\users\joey\dropbox\school\cs1566\intersect\intersect\shape.cpp(100): warning C4258: 'c' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\joey\dropbox\school\cs1566\intersect\intersect\shape.cpp(89) : definition of 'c' ignored
+                 c:\users\joey\dropbox\school\cs1566\intersect\intersect\shape.cpp(83) : definition of 'c' used
+     1>c:\users\joey\dropbox\school\cs1566\intersect\intersect\shape.cpp(105): warning C4258: 'c' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\joey\dropbox\school\cs1566\intersect\intersect\shape.cpp(89) : definition of 'c' ignored
+                 c:\users\joey\dropbox\school\cs1566\intersect\intersect\shape.cpp(83) : definition of 'c' used
+     1>c:\users\joey\dropbox\school\cs1566\intersect\intersect\shape.cpp(144): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\joey\dropbox\school\cs1566\intersect\intersect\shape.cpp(150): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\joey\dropbox\school\cs1566\intersect\intersect\shape.cpp(335): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\joey\dropbox\school\cs1566\intersect\intersect\shape.cpp(337): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\joey\dropbox\school\cs1566\intersect\intersect\shape.cpp(346): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\joey\dropbox\school\cs1566\intersect\intersect\shape.cpp(473): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\joey\dropbox\school\cs1566\intersect\intersect\shape.cpp(475): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\joey\dropbox\school\cs1566\intersect\intersect\shape.cpp(483): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\joey\dropbox\school\cs1566\intersect\intersect\shape.cpp(540): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\joey\dropbox\school\cs1566\intersect\intersect\shape.cpp(542): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\joey\dropbox\school\cs1566\intersect\intersect\shape.cpp(550): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\joey\dropbox\school\cs1566\intersect\intersect\shape.cpp(620): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\joey\dropbox\school\cs1566\intersect\intersect\shape.cpp(622): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\joey\dropbox\school\cs1566\intersect\intersect\shape.cpp(631): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Joey\Dropbox\School\CS1566\Intersect\Debug\Intersect.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Joey\Dropbox\School\CS1566\Intersect\Debug\Intersect.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Joey\Dropbox\School\CS1566\Intersect\Debug\Intersect.lib" /MACHINE:X86 Debug\Camera.obj
+         Debug\Face.obj
+         Debug\glmain.obj
+         Debug\MatrixMultiplyer.obj
+         Debug\Point.obj
+         Debug\Shape.obj
+         Intersect.vcxproj -> C:\Users\Joey\Dropbox\School\CS1566\Intersect\Debug\Intersect.exe
+     1>Done Building Project "C:\Users\Joey\Dropbox\School\CS1566\Intersect\Intersect\Intersect.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.74
