@@ -1,0 +1,6 @@
+C:\Users\Joey\Dropbox\School\NaT\NaT Final Project\NaT Final Project\bin\Debug\NaT Final Project.exe.config
+C:\Users\Joey\Dropbox\School\NaT\NaT Final Project\NaT Final Project\bin\Debug\NaT Final Project.exe
+C:\Users\Joey\Dropbox\School\NaT\NaT Final Project\NaT Final Project\bin\Debug\NaT Final Project.pdb
+C:\Users\Joey\Dropbox\School\NaT\NaT Final Project\NaT Final Project\obj\Debug\NaT Final Project.csprojResolveAssemblyReference.cache
+C:\Users\Joey\Dropbox\School\NaT\NaT Final Project\NaT Final Project\obj\Debug\NaT Final Project.exe
+C:\Users\Joey\Dropbox\School\NaT\NaT Final Project\NaT Final Project\obj\Debug\NaT Final Project.pdb
